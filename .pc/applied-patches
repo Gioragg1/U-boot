@@ -1,0 +1,10 @@
+0001-omap3_beagle-add-usbethaddr-setting-to-enable-networ.patch
+0001-OMAP3-Beagle-Set-BOOTDELAY-to-3.patch
+0002-am335x-am3517evm-beagleboard-am37x-Add-CONFIG_CMD_AS.patch
+0003-beagleboard-Load-uImage-from-VFAT-by-default.patch
+0004-beagleboard-Load-uImage-to-the-default-kernel-linux-.patch
+0001-omap3_evm-Added-function-calls-to-set-volts-speed-on.patch
+0002-omap3evm-Make-the-board-start-at-800MHz.patch
+0003-beagleboard-Make-xM-rev-C-go-to-800MHz.patch
+0001-ARM-omap3-Set-SPL-stack-size-to-8KB-image-to-54KB.patch
+0001-armv7-Unaligned-access-fix.patch
